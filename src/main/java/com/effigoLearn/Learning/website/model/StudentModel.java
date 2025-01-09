@@ -5,7 +5,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
 @Entity
-public class studentModel {
+public class StudentModel  {
 
     @Id
     private int id;
